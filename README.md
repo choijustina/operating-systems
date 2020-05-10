@@ -7,15 +7,15 @@ Prof. Kamen Yotov
 
 Using xv6
 
-------------------
-Homework 1
 
-hello.c
-
-
-head.c
+### Homework 1
++ hello.c
++ head.c
 
 
------------------
-Extra Credit
+### Homework 2 
++ shell.c
 
+### Homework 4
++ parallel_hashtable.c
++ parallel_mutex.c
